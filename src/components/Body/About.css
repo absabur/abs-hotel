@@ -15,3 +15,9 @@
 .section-content {
     color: #666;
 }
+
+@media screen and (max-width: 768px) {
+    .section-content {
+        text-align: justify;
+    }
+}

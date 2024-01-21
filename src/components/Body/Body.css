@@ -8,6 +8,7 @@
     margin: 20px 0;
     box-shadow: 0 0 5px black;
     padding: 10px;
+    background-color: aliceblue;
 }
 
 .category h2{
@@ -40,6 +41,7 @@
     justify-content: space-around;
     flex-direction: column;
     transition: all 0.1s;
+    background-color: white;
 }
 
 .room-card:hover{
