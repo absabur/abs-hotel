@@ -1,0 +1,19 @@
+export const SHOW_ROOMS = "SHOW_ROOMS";
+
+
+export const REGISTER_LOGIN = "REGISTER_LOGIN";
+export const AUTHENTICATED = "AUTHENTICATED";
+export const LOGOUT = "LOGOUT";
+export const ERROR = "ERROR";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+
+export const BOOKING_SUCCESS = "BOOKING_SUCCESS";
+export const BOOKING_FAILS = "BOOKING_FAILS";
+export const BOOKING_DATA_GET = "BOOKING_DATA_GET";
+export const CLEAR_BOOKING_MESSAGE = "CLEAR_BOOKING_MESSAGE";
+export const AVAILBLE_ROOM = "AVAILBLE_ROOM";
+
+
+export const LOADING_TRUE = "LOADING_TRUE";
+export const LOAIDNG_FALSE = "LOAIDNG_FALSE";

@@ -1,0 +1,17 @@
+.header-ac {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.section-title {
+    color: #333;
+}
+
+.section-content {
+    color: #666;
+}
